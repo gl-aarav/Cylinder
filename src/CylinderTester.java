@@ -1,8 +1,7 @@
 
-public class CylinderTester {
+public class CylinderTester
+{
 
-	private static int radius = 0;
-	private static int height = 0;
 	public static void main(String[] args)
 	{
 	
