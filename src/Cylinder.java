@@ -24,9 +24,9 @@ public class Cylinder
 	{
 		Scanner in = new Scanner (System.in);
 
-		System.out.print("Enter the radius (double): ");
+		System.out.print("Enter the radius (a double)-> ");
 		radius = in.nextDouble();
-		System.out.print("\nEnter the height (double): ");
+		System.out.print("\nEnter the height (a double)-> ");
 		height = in.nextDouble();
 	}
 	public void findSAandV()
